@@ -22,6 +22,9 @@
     
   </div>
 
+</br>
+<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/RamadanismaeL/count.svg" /></p>
+
 ![Snake animation](https://github.com/RamadanismaeL/blob/output/github-contribution-grid-snake.svg)
 
 
