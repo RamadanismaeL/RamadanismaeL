@@ -9,8 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanismaeL&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<div>
-            
+<div>            
   <img align="center" alt="Ramadan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />          
   <img align="center" alt="Ramadan-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Ramadan-JaVa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -23,7 +22,7 @@
     
   </div>
 
-
+![Snake animation](https://github.com/RamadanismaeL/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- <div>
