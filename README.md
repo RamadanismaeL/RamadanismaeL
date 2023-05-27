@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b1931&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+allow+me+to+introduce+myself!;My+name+is+Ramadan+Ibraimo+Ismael;I+am+from+Mozambique,+Maputo;I+am+majoring+in+Computer+Engineering;at+Eduardo+Mondlane+University;Be+Welcome.!+:%29)](https://git.io/typing-svg)
 
