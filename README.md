@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b1931&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07e9a5&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+Friend!;My+name+is+Ramadan,;I+am+a+software+developer.;So....;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -50,4 +50,4 @@
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/RamadanismaeL/count.svg" /></p>
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b1931&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07e9a5&height=120&section=footer"/>
