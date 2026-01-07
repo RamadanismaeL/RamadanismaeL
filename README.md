@@ -1,4 +1,4 @@
-<a href="https://github.com/RamadanismaeL"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/RamadanismaeL"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=FullStack+Developer&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
@@ -8,8 +8,8 @@
 
 <div align="left">
   <a href="https://github.com/RamadanismaeL">
-    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=RAMADAN&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Kayo Galdino github stats" />
-    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=RAMADAN&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Ramadan Ismael github stats" />
+    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanismaeL&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
     <!-- <a href="https://github.com/KAYOKG"><img height="350px"  src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/></a> -->
   </a>
 </div>
@@ -18,12 +18,12 @@
 
 <div align="center">
 
-[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KAYOKG&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/KAYOKG)
+[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RamadanismaeL&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/RamadanismaeL)
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/KAYOKG">
+  <a href="https://github.com/RamadanismaeL">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6474B9&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/></a>
 
   | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=6474B9&vCenter=true&width=110&height=20&lines=Front-end" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=6474B9&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4500&color=6474B9&vCenter=true&width=75&height=20&lines=Mobile" alt="Typing SVG" /></h2> |
