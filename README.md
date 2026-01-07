@@ -1,8 +1,8 @@
-<a href="https://github.com/RamadanismaeL"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=FullStack+Developer&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/RamadanismaeL"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=FullStack+Developer+•+UX/UI+Design&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Ramadan+Ismael;I'm+24+years+old;I+am+from+Mozambique,+MG;Be+Welcome!🎉)](https://github.com/RamadanismaeL)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Ramadan+Ismael;I+am+from+Mozambique;Be+Welcome!🎉)](https://github.com/RamadanismaeL)
 
 </div>
 
