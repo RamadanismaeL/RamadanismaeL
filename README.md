@@ -31,7 +31,7 @@
   | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> </br> <img width="100px" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </br> <img width="100px" src="https://img.shields.io/badge/react%20JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </br> <img width="100px" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> </br> </h3> |  | <h3 align="center">  <img width="100px" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> </br> <img width="100vw" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> </br> </h3> |  | <h3 align="center"> </br> <img width="100px" src ="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> </br> <img width="100px" src ="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/> </br> </h3> |
   </a>
 
-  <a href="https://github.com/KAYOKG">
+  <a href="https://github.com/RamadanismaeL">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=370&height=40&lines=Especialização • DevOps e Cloud"/> 
   </a>
   
@@ -49,8 +49,7 @@
 
 <div>
   <a href="https://discord.com/channels/@me/925586869255831643" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kayo-galdino/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/kayogaldino/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
-  <a href="https://github.com/KAYOKG"><img align="right" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17103%26project%3D%26in%3D604800000"></a>
-  <a href="https://github.com/KAYOKG"><img align="right" src="https://visitcount.itsvg.in/api?id=KAYOKG&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
+  <a href="https://github.com/RamadanismaeL"><img align="right" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17103%26project%3D%26in%3D604800000"></a>
 </div>
 
 <a href="https://github.com/KAYOKG">
