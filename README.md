@@ -1,8 +1,14 @@
-<a href="https://github.com/RamadanismaeL"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=FullStack+Developer+•+UX/UI+Design&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/RamadanismaeL">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=1da648&height=180&section=header&text=Full+Stack+Developer+•+UX/UI+Designer&fontSize=30&fontColor=2cff72&font=K2D&animation=twinkling&fontAlignY=35" 
+    width="1000"
+    alt="Ramadan Ismael - Full Stack & UX/UI Designer"
+  />
+</a>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Ramadan+Ismael;I+am+from+Mozambique;Be+Welcome!🎉)](https://github.com/RamadanismaeL)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&font=K2D&lines=Hi,+I'm+Ramadan+Ismael;Full+Stack+Developer+%26+UX/UI+Designer;Building+Reliable+and+High-Quality+Applications🚀)](https://github.com/RamadanismaeL)
 
 </div>
 
