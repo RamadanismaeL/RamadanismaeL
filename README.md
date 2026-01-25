@@ -16,7 +16,7 @@
   <a href="https://github.com/RamadanismaeL">
     <img
       width="450"
-      src="https://github-readme-stats.vercel.app/api?username=RamadanismaeL&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=2cff72&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10"
+      src="https://github-readme-stats.vercel.app/api?username=RamadanismaeL&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=2cff72&icon_color=6474B9&text_color=937CD5&bg_color=transparent"
       alt="Ramadan Ismael GitHub Stats"
     />
     <img
