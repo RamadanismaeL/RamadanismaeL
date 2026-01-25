@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2cff72&size=35&center=true&vCenter=true&width=1000&font=K2D&lines=Hi,+I'm+Ramadan+Ismael;Full+Stack+Developer+%26+UX/UI+Designer;Building+Reliable+and+High-Quality+Applications🚀;Be+Welcome!!)](https://github.com/RamadanismaeL)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2cff72&size=35&center=true&vCenter=true&width=1000&font=K2D&lines=Hi,+I'm+Ramadan+Ismael;Full+Stack+Developer+%26+UX/UI+Designer;I+deliver+high-quality+solutions;Have+a+request?;Let's+talk!;and;You+are+warmly+welcomed!!)](https://github.com/RamadanismaeL)
 
 </div>
 
