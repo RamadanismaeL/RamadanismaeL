@@ -1,6 +1,6 @@
 <a href="https://github.com/RamadanismaeL">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=1da648&height=180&section=header&text=Full+Stack+Developer+•+UX/UI+Designer&fontSize=30&fontColor=2cff72&font=K2D&animation=twinkling&fontAlignY=35" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=1da648&height=180&section=header&text=Full+Stack+Developer+•+UX/UI+Designer&fontSize=30&fontColor=E6FFF1&font=K2D&animation=twinkling&animationSpeed=3&fontAlignY=35" 
     width="1000"
     alt="Ramadan Ismael - Full Stack & UX/UI Designer"
   />
@@ -67,7 +67,7 @@
 
 <a href="https://github.com/RamadanismaeL">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=1da648&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=2cff72&font=K2D&animation=twinkling&fontAlignY=75" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=1da648&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=E6FFF1&font=K2D&animation=twinkling&animationSpeed=3&fontAlignY=75" 
     width="1000"
     alt="Ramadan Ismael - Full Stack & UX/UI Designer"
   />
