@@ -40,7 +40,7 @@
 
 <div align="center">
   
-  ## <a href="https://github.com/RamadanismaeL"><img src="https://readme-typing-svg.demolab.com?font=K2D&pause=3000&color=1da648&vCenter=true&width=200&height=20&lines=Languages+and+Tools" alt="Typing SVG" /></a>
+  ## <a href="https://github.com/RamadanismaeL"><img src="https://readme-typing-svg.demolab.com?font=K2D&size=30&pause=2000&color=1da648&vCenter=true&width=200&height=40&lines=Languages+and+Tools" alt="Typing SVG" /></a>
   
   <div>
     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
