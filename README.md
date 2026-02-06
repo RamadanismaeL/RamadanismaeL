@@ -42,7 +42,7 @@
   
   ## <a href="https://github.com/RamadanismaeL"><img src="https://readme-typing-svg.demolab.com?font=K2D&size=30&pause=2000&color=2cff72&vCenter=true&height=40&lines=Languages+and+Tools" alt="Typing SVG" /></a>
   
-  <div>
+  <div align="center">
     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />    
